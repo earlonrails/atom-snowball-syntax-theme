@@ -1,0 +1,12 @@
+{
+  "name": "atom-snowball-syntax-theme",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description":
+    "Light theme closer to sublime text version of Tomorrow",
+  "repository": "https://github.com/atom/snowball-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
